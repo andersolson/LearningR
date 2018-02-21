@@ -3,7 +3,7 @@
 # ---- -2 ---- -1 ---- 0 ---- 1 ---- 2 ----
 
 #'rnorm' function randomly creates a vector of numbers
-#that have a normal distribution
+#that have a normal distribution i.e. between -2 and 2
 
 rnorm(1)
 #e.g. -1.317286
