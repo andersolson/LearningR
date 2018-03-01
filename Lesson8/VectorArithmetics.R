@@ -12,3 +12,8 @@ x + y #48  28  63  57  57 123
 x <- c(3, 4, 7)
 y <- c(45, 78, 34, 2)
 x + y #Warning message:In x + y : longer object length is not a multiple of shorter object length
+
+x <- c(3, 7, 9)
+y <- c(5, 12, 8)
+x / y #0.6000000 0.5833333 1.1250000
+
